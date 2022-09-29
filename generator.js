@@ -15,7 +15,13 @@ function makeid(length) {
 const args = process.argv;
 console.log(makeid(args[2]));
 
+
+
+// incoming merge conflicts :D 
+// from gitkraken
+
 // this is a comment from Saad
 
 //test
+
 
